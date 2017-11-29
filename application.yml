@@ -20,6 +20,6 @@ TGDBSERVER3DataSource:
   username: polnote_service
   password: p0ln0t3t3st
 propertiesDomainInjector:
-  env: TEST
+  env: DEV
 cxf:
   path: /v2
